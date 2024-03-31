@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  padding: 2rem;
+  background-color: #181818;
+}
+
+@media (min-width:1024px){
+  .App {
+    padding: 4rem;
+  }
 }
 
 .App-logo {
